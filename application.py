@@ -11,6 +11,8 @@ instructions = '''
     <p>
     <h1 style="padding: 60px; background-color:black ; color: white"> Hello People!</h1>
     <br/>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/9uq0NJ_rFKQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <br/>
     <h1>Imagine something really cool here :)<h1/>
     <hr/>
     <em>Hint</em>: This is a RESTful web service! Append a username
