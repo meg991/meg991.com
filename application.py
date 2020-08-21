@@ -21,12 +21,20 @@ instructions = '''
      <h1>President: Armen Sarkissian<h1/>
      <hr/>
      <br/>
+     <h1>The Armenian language is an Indo-European language that is the only language in the Armenian branch. It is the official language of Armenia as well as the de facto Republic of Artsakh. Historically being spoken throughout the Armenian Highlands, today, Armenian is widely spoken throughout the Armenian diaspora.<h1/>
+     <h1>Ethnicity: Armenians<h1/>
+     <h1>Native speakers: 6.7 million<h1/>
+     <h1>Standard forms: Eastern Armenian Western Armenian<h1/>
+     <h1>Native to: Armenia and Artsakh<h1/>
+     <h1>Language family: Indo-European languages<h1/>
+     <br/>
      <iframe width="560" height="315" src="https://www.youtube.com/embed/r_3SQs-Eaa0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
      <br/>
      <iframe width="560" height="315" src="https://www.youtube.com/embed/YHJxOh7eJXs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
      <br/>
      <iframe width="560" height="315" src="https://www.youtube.com/embed/KPgq5s5GTak" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
      <br/>
+     
      <em>Hint</em>: This is a RESTful web service! Append a username
      to the URL (for example: <code>/Thelonious</code>) to say hello to
     someone specific.</p>\n'''
