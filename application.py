@@ -9,7 +9,7 @@ header_text = '''
     <html>\n<head> <title>ArmenianGirl</title> </head>\n<body>'''
 instructions = '''
     <p>
-    <h1 style="padding: 60px; background-color:red ; color: white"> Armenian Girl!</h1>
+    <h1 style="padding: 60px; background-color:orange ; color: white"> Armenian Girl!</h1>
     <br/>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/r_3SQs-Eaa0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <br/>
