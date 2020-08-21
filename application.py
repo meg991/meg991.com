@@ -6,7 +6,7 @@ def say_hello(username = "World"):
 
 # some bits of text for the page.
 header_text = '''
-    <html>\n<head> <title>megsite</title> </head>\n<body>'''
+    <html>\n<head> <title>ArmenianGirl</title> </head>\n<body>'''
 instructions = '''
     <p>
     <h1 style="padding: 60px; background-color:red ; color: white"> Armenian Girl!</h1>
