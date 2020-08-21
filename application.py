@@ -9,11 +9,11 @@ header_text = '''
     <html>\n<head> <title>megsite</title> </head>\n<body>'''
 instructions = '''
     <p>
-    <h1 style="padding: 60px; background-color:black ; color: white"> Hello People!</h1>
+    <h1 style="padding: 60px; background-color:red ; color: white"> Armenian Girl!</h1>
     <br/>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/9uq0NJ_rFKQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/r_3SQs-Eaa0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <br/>
-    <h1>Imagine something really cool here :)<h1/>
+    <h1>Armenian culture is a rich mixture of flavors, colors, plus outside influences and things that are uniquely Armenian. From the architecture to applied arts, performing arts to literature, culture in Armenia represents the history, lifestyle, aspirations, and beauty of this unique country.<h1/>
     <hr/>
     <em>Hint</em>: This is a RESTful web service! Append a username
     to the URL (for example: <code>/Thelonious</code>) to say hello to
