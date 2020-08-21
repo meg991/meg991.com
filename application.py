@@ -6,14 +6,21 @@ def say_hello(username = "World"):
 
 # some bits of text for the page.
 header_text = '''
-    <html>\n<head> <title>ArmenianGirl</title> </head>\n<body>'''
+    <html>\n<head> <title> Proud Armenian </title> </head>\n<body>'''
 instructions = '''
     <p>
+    <h1 style="padding: 60px; background-color:red ; color: white"> Armenian Girl!</h1>
+    <h1 style="padding: 60px; background-color:blue ; color: white"> Armenian Girl!</h1>
     <h1 style="padding: 60px; background-color:orange ; color: white"> Armenian Girl!</h1>
     <br/>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/r_3SQs-Eaa0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <br/>
-    <h1>Armenian culture is a rich mixture of flavors, colors, plus outside influences and things that are uniquely Armenian. From the architecture to applied arts, performing arts to literature, culture in Armenia represents the history, lifestyle, aspirations, and beauty of this unique country.<h1/>
+    <h1>Armenia is a nation, and former Soviet republic, in the mountainous Caucasus region between Asia and Europe. Among the earliest Christian civilizations, it’s defined by religious sites including the Greco-Roman Temple of Garni and 4th-century Etchmiadzin Cathedral, headquarters of the Armenian Church. Khor Virap Monastery is a pilgrimage site near Mount Ararat, a dormant volcano just across the border in Turkey.
+        Capital: Yerevan
+        Population: 2.965 million (2019) Eurostat
+        Continent: Asia
+        Currency: Armenian dram
+        President: Armen Sarkissian<h1/>
     <hr/>
     <em>Hint</em>: This is a RESTful web service! Append a username
     to the URL (for example: <code>/Thelonious</code>) to say hello to
