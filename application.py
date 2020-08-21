@@ -2,18 +2,16 @@ from flask import Flask
 
 # print a nice greeting.
 def say_hello(username = "World"):
-    return '<p> Welcome To My! %s!</p>\n' % username
+    return '<p> Welcome To My %s!</p>\n' % username
 
 # some bits of text for the page.
 header_text = '''
     <html>\n<head> <title> Proud Armenian </title> </head>\n<body>'''
 instructions = '''
     <p>
-    <h1 style="padding: 60px; background-color:red ; color: white"> PROUD </h1>
-    <h1 style="padding: 60px; background-color:blue ; color: white"> ARMENIAN</h1>
-    <h1 style="padding: 60px; background-color:orange ; color: white"> GIRL:) </h1>
-    <br/>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/r_3SQs-Eaa0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <h1 style="padding: 20px; background-color:red ; color: white"> PROUD </h1>
+    <h1 style="padding: 20px; background-color:blue ; color: white"> ARMENIAN</h1>
+    <h1 style="padding: 20px; background-color:orange ; color: white"> GIRL:) </h1>
     <br/>
     <h1>Armenia is a nation, and former Soviet republic, in the mountainous Caucasus region between Asia and Europe. Among the earliest Christian civilizations, it’s defined by religious sites including the Greco-Roman Temple of Garni and 4th-century Etchmiadzin Cathedral, headquarters of the Armenian Church. Khor Virap Monastery is a pilgrimage site near Mount Ararat, a dormant volcano just across the border in Turkey.<h1/>
      <h1>Capital: Yerevan<h1/>
@@ -22,8 +20,15 @@ instructions = '''
      <h1>Currency: Armenian dram<h1/>
      <h1>President: Armen Sarkissian<h1/>
      <hr/>
-    <em>Hint</em>: This is a RESTful web service! Append a username
-    to the URL (for example: <code>/Thelonious</code>) to say hello to
+     <br/>
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/r_3SQs-Eaa0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+     <br/>
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/YHJxOh7eJXs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+     <br/>
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/KPgq5s5GTak" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+     <br/>
+     <em>Hint</em>: This is a RESTful web service! Append a username
+     to the URL (for example: <code>/Thelonious</code>) to say hello to
     someone specific.</p>\n'''
 home_link = '<p><a href="/">Back</a></p>\n'
 footer_text = '</body>\n</html>'
